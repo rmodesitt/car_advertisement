@@ -5,7 +5,7 @@ import numpy as np
 import plotly.express as px
 
 # Load the data into a pandas Dataframe
-cars_df = pd.read_csv("C:/Users/gmode/TripleTen-course/car_advertisement/vehicles_us.csv")
+cars_df = pd.read_csv('vehicles_us.csv')
 
 # MARKET ANALYSIS
 # Capitalize and update certain 'type' values
